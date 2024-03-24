@@ -1,3 +1,4 @@
-I’m ErfanKhadiv and I'm from iran.
+This is "Erfan Khadiv's" GitHub account.
 - Software Developer
-- Interested in HTML, CSS, PYTHON, JAVASCRIPT, ...
+- Interested in Artificial Intelligence
+- Interested in C, Python, HTML, CSS & . . .
