@@ -1,75 +1,22 @@
-# 👋 Hi, I’m Erfan Khadiv
+# Hi, I'm Erfan Khadiv 👋
 
-🎯 **Computer Eng. Student | Full-Stack Learner | Future AI Engineer**
+Computer Engineering graduate (Islamic Azad University, Ardabil) heading into a Master's in Artificial Intelligence. Interested in optimization/metaheuristics, machine learning, and building things that actually get benchmarked, not just demoed.
 
-I’m a passionate developer focused on building clean, responsive, and real-world web applications.  
-I enjoy turning ideas into functional products and continuously improving my skills through hands-on projects.
+- 🎓 B.Sc. Computer Engineering — GPA 18.05/20.00
+- 🔭 Currently building AI/ML projects ahead of Master's applications (Politecnico di Milano, Università di Bologna)
+- 🧠 Research interests: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, NLP
+- 🌱 Background: metaheuristic optimization, network infrastructure (IT internship), Python/OOP fundamentals
 
----
+## Featured project
 
-## 🧠 Tech Stack & Skills
+**[HBALS-TSP](https://github.com/ErfanKhadiv/HBALS-TSP)** — A hybrid Bees Algorithm + adaptive local search (2-opt/3-opt) for the Traveling Salesman Problem. Benchmarked against BA, ACO, GA, and PSO on TSPLIB instances — outperforms all four on solution quality across every tested dataset. Full reproducible benchmark suite: all 5 algorithms, all datasets, all results included.
 
-### Front-End
-- ⚛️ **React**
-- 🟨 **JavaScript (ES6+)**
-- 🎨 **HTML5 & CSS3**
-- 🧭 React Router
-- ⚡ Vite
+## Other projects
 
-### Back-End & Databases
-- 🐍 **Python**
-- 🗄️ **PostgreSQL**
+- **[Kouman](https://github.com/ErfanKhadiv/Kouman)** — React/Vite front-end e-commerce app (routing, component architecture)
+- **[python-fundamentals](https://github.com/ErfanKhadiv/python-fundamentals)** — CRUD apps, OOP design, and NumPy data analysis exercises
 
-### Tools & Practices
-- Git & GitHub  
-- Component-based architecture  
-- Responsive UI design  
-- Clean & maintainable code  
+## Contact
 
----
-
-## 🚀 Featured Projects
-
-### 🛍️ Project Kouman
-**Front-end E-commerce Style Application**
-
-- Built with **React + Vite**
-- Client-side routing using **React Router**
-- Product listing & product detail pages
-- Cart and login/signup UI
-- Responsive layout
-- UI inspired by a real-world website (educational purpose only)
-
-🔗 **Live Demo:**  
-https://erfankhadiv.github.io/Kouman/
-
-💻 **Source Code:**  
-https://github.com/ErfanKhadiv/Kouman
-
----
-
-## 📈 What I’m Currently Working On
-- Improving React architecture and best practices
-- Strengthening JavaScript fundamentals
-- Learning backend concepts and databases
-- Preparing for advanced AI & software engineering studies
-
----
-
-## 📫 Connect With Me
-
-- 📧 **Email:** erfankhadiv1383@gmail.com  
-- 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/erfan-khadiv-777a66279)  
-- 📸 **Instagram:** [My Instagram ](https://www.instagram.com/erphan.kh?utm_source=qr&igsh=MzNlNGNkZWQ4Mg%3D%3D) 
-
----
-
-## ⭐ Goals
-- Build impactful real-world applications
-- Grow as a full-stack & AI-focused engineer
-- Contribute to open-source projects
-- Continuously learn and improve
-
----
-
-> 💡 *“Learning by building is the fastest way to grow.”*
+📧 erfan.khadiv.dev@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/erfan-khadiv-777a66279)
