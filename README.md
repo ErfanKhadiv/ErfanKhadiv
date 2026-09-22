@@ -33,17 +33,14 @@ A research-oriented implementation combining a Bees Algorithm
 with adaptive 2-opt/3-opt local search and benchmarking against
 several classical metaheuristic approaches on TSPLIB instances.
 
-[View project →]
+[View project →](https://github.com/ErfanKhadiv/HBALS-TSP)
 
 ## 💻 Technical Skills
 
-Programming: Python • C • JavaScript
-
-AI & Machine Learning: Machine Learning • Artificial Intelligence • Optimization & Metaheuristics
-
-Data & Scientific Computing: NumPy • Pandas • Matplotlib
-
-Web Development: React
+-Programming: Python • C • JavaScript
+-AI & Machine Learning: Machine Learning • Artificial Intelligence • Optimization & Metaheuristics
+-Data & Scientific Computing: NumPy • Pandas • Matplotlib
+-Web Development: React
 
 ## 📚 Coursework & Learning
 
