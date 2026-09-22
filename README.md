@@ -3,7 +3,9 @@
 Computer Engineering graduate (Islamic Azad University, Ardabil) heading into a Master's in Artificial Intelligence. I work on optimization and metaheuristics, and I care about building things that get benchmarked, not just demoed.
 
 **B.Sc. Computer Engineering** — GPA 18.05/20.00
+
 **Research interests:** metaheuristic optimization, machine learning, deep learning, computer vision, NLP
+
 **Currently:** building AI/ML projects ahead of my Master's applications
 
 ## Featured project
@@ -19,4 +21,5 @@ A hybrid Bees Algorithm with adaptive local search (2-opt/3-opt) for the Traveli
 ## Contact
 
 📧 erfan.khadiv.dev@gmail.com
+
 💼 [LinkedIn](https://linkedin.com/in/erfan-khadiv-777a66279)
