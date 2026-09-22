@@ -1,4 +1,4 @@
-# Hi, I'm Erfan Khadiv 👋
+# I'm Erfan Khadiv 👋
 
 Computer Engineering graduate with a strong interest in Artificial
 Intelligence, Machine Learning, and Optimization.
@@ -9,9 +9,9 @@ machine learning, and research-oriented AI.
 
 ## 🎓 Education
 
-B.Sc. Computer Engineering
-Islamic Azad University, Ardabil Branch, Iran
-GPA: 18.05/20.00
+**B.Sc. in Computer Engineering**  
+Islamic Azad University, Ardabil Branch, Iran  
+**GPA:** 18.05/20.00
 
 ## 🔬 Research Interests
 
@@ -24,23 +24,20 @@ GPA: 18.05/20.00
 
 ## 🧠 Featured Project
 
-### HBALS-TSP
+**[HBALS-TSP](https://github.com/ErfanKhadiv/HBALS-TSP)** — A hybrid Bees Algorithm with adaptive local search (2-opt/3-opt) for the Traveling Salesman Problem. Benchmarked against BA, ACO, GA, and PSO on TSPLIB instances — outperforms all four on solution quality across every tested dataset. Includes a full reproducible benchmark suite: all 5 algorithms, all datasets, all results.
 
-Hybrid Bees Algorithm with Adaptive Local Search for the
-Travelling Salesman Problem.
+## 👾 Other projects
 
-A research-oriented implementation combining a Bees Algorithm
-with adaptive 2-opt/3-opt local search and benchmarking against
-several classical metaheuristic approaches on TSPLIB instances.
+- **[python-fundamentals](https://github.com/ErfanKhadiv/python-fundamentals)** — CRUD applications, OOP design, and NumPy-based data analysis exercises
+- **[Kouman](https://github.com/ErfanKhadiv/Kouman)** — React/Vite front-end e-commerce app; general web development practice (routing, component architecture)
 
-[View project →](https://github.com/ErfanKhadiv/HBALS-TSP)
 
 ## 💻 Technical Skills
 
--Programming: Python • C • JavaScript
--AI & Machine Learning: Machine Learning • Artificial Intelligence • Optimization & Metaheuristics
--Data & Scientific Computing: NumPy • Pandas • Matplotlib
--Web Development: React
+- Programming: Python • C • JavaScript
+- AI & Machine Learning: Machine Learning • Artificial Intelligence • Optimization & Metaheuristics
+- Data & Scientific Computing: NumPy • Pandas • Matplotlib
+- Web Development: React
 
 ## 📚 Coursework & Learning
 
