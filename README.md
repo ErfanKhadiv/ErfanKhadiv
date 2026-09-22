@@ -28,8 +28,8 @@ Islamic Azad University, Ardabil Branch, Iran
 
 ## 👾 Other projects
 
+- **[CS50AI](https://github.com/ErfanKhadiv/CS50AI)** — Harvard University's introduction to Artificial Intelligence with Python, covering search algorithms, knowledge representation, machine learning, neural networks, optimization, and natural language processing.
 - **[python-fundamentals](https://github.com/ErfanKhadiv/python-fundamentals)** — CRUD applications, OOP design, and NumPy-based data analysis exercises
-- **[Kouman](https://github.com/ErfanKhadiv/Kouman)** — React/Vite front-end e-commerce app; general web development practice (routing, component architecture)
 
 
 ## 💻 Technical Skills
