@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erfan%20Khadiv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-khadiv-777a66279/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfan.khadiv.dev@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=ErfanKhadiv&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
 
