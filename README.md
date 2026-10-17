@@ -9,6 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erfan%20Khadiv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-khadiv-777a66279/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfan.khadiv.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_demo-F2B632?style=for-the-badge&logo=githubpages&logoColor=0F1626)](https://erfankhadiv.github.io/)
 
 </div>
 
@@ -22,6 +23,14 @@ Computer Engineering graduate with a strong interest in **Artificial Intelligenc
 - 🧪 Author of **HBALS**, a hybrid metaheuristic for the Traveling Salesman Problem
 - 🌐 Building full-stack skills with React, Node.js, and PostgreSQL
 - 🗣️ English: IELTS Academic 8.0 · Persian: native
+
+## 🌐 Portfolio
+
+<a href="https://erfankhadiv.github.io/">
+  <img src="https://erfankhadiv.github.io/docs/screenshots/Dark_Mode_En.png" alt="Erfan Khadiv portfolio website" width="720">
+</a>
+
+**[erfankhadiv.github.io](https://erfankhadiv.github.io/)**: my personal site, in English and Persian, with dark and light mode. It has a live demo of HBALS running on real TSPLIB instances, plus my research, projects, education and contact.
 
 ## 🎓 Education
 
@@ -46,6 +55,7 @@ GPA: **18.05 / 20.00**
 
 | Project | What it is | Tech |
 |---|---|---|
+| [**Portfolio website**](https://github.com/ErfanKhadiv/ErfanKhadiv.github.io) · [Live demo](https://erfankhadiv.github.io/) | Bilingual (English/Persian, RTL) portfolio with dark/light mode and a live in-browser demo of the HBALS algorithm. | HTML · CSS · JavaScript |
 | [**Workfolio**](https://github.com/ErfanKhadiv/Workfolio) · [Live demo](https://erfankhadiv.github.io/Workfolio/) | Browser-based resume builder with five templates, live preview, and PDF/Word/Excel/text export. Includes an on-device **AI Job Match** tool (sentence embeddings with TF-IDF fallback) that scores a resume against a job posting. | JavaScript · HTML · CSS |
 | [**Kouman**](https://github.com/ErfanKhadiv/Kouman) · [Live demo](https://erfankhadiv.github.io/Kouman/) | Multi-page e-commerce front end with routing, cart, search, and Persian/English RTL switch. | React · React Router · Vite |
 | [**LiFi-Report**](https://github.com/ErfanKhadiv/LiFi-Report) | Research report on Li-Fi (Light Fidelity) wireless communication. | Technical writing |
