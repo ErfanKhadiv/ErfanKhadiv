@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erfan%20Khadiv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-khadiv-777a66279/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfan.khadiv.dev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-ErfanKhadiv-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ErfanKhadiv)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_demo-F2B632?style=for-the-badge&logo=githubpages&logoColor=0F1626)](https://erfankhadiv.github.io/)
 
 </div>
