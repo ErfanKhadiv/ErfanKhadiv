@@ -41,13 +41,12 @@ GPA: **18.05 / 20.00** · Rank **4th** among graduates
 
 ## 🧠 Featured Project
 
-**[HBALS-TSP](https://github.com/ErfanKhadiv/HBALS-TSP)**: a hybrid Bees Algorithm with adaptive local search (2-opt/3-opt) for the Traveling Salesman Problem.
+**[HBALS-TSP](https://github.com/ErfanKhadiv/HBALS-TSP)**: a hybrid Bees Algorithm with 2-opt local search for the Travelling Salesman Problem, evaluated with an equal-budget comparison and an ablation study.
 
-- Benchmarked against **BA, ACO, GA and PSO** on six TSPLIB instances (up to 195 cities)
-- Shortest best tour on all six instances; the difference is statistically significant against BA and GA, but not against ACO and PSO
-- Fully reproducible: all five algorithms, all datasets and all results are included
-- Limitations are documented openly in the repo
-- Sole-authored manuscript submitted to *Evolutionary Intelligence* (Springer)
+- Compared fairly (same 2-opt operator, same budget) with iterated local search, a memetic GA and ACO, multi-start 2-opt and a plain Bees Algorithm on 15 TSPLIB instances (51 to 318 cities)  
+- Best average rank (1.25 of 6) on 12 instances and significantly better than 4 of the 5 other methods; statistically level with iterated local search overall, which is better on the largest instances. Limitations and the corrections to my first version are documented openly in the repo
+- Fully reproducible: results are identical on Windows and Linux; all code, data and results are included
+- Sole-authored; preprint on Zenodo (not peer reviewed), manuscript being prepared for journal submission
 
 ## 👾 Other Projects
 
