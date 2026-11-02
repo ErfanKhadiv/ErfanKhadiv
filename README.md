@@ -56,7 +56,7 @@ GPA: **18.05 / 20.00** · Rank **4th** among graduates
 | [**Workfolio**](https://github.com/ErfanKhadiv/Workfolio) · [Live demo](https://erfankhadiv.github.io/Workfolio/) | Browser-based resume builder with five templates, live preview, and PDF/Word/Excel/text export. Includes an on-device **AI Job Match** tool that scores a resume against a job posting. | JavaScript · HTML · CSS |
 | [**Kouman**](https://github.com/ErfanKhadiv/Kouman) · [Live demo](https://erfankhadiv.github.io/Kouman/) | Multi-page e-commerce front end with routing, search, cart and a Persian/English RTL switch. | React · React Router · Vite |
 | [**CS50AI**](https://github.com/ErfanKhadiv/CS50AI) | Problem sets from Harvard's AI course: Q-learning, k-NN, constraint satisfaction, CFG parsing and a CNN traffic-sign classifier. | Python · TensorFlow · scikit-learn |
-| [**LiFi-Report**](https://github.com/ErfanKhadiv/LiFi-Report) | Research report on Li-Fi (Light Fidelity) wireless communication. | Technical writing |
+| [**LiFi-Report**](https://github.com/ErfanKhadiv/LiFi-Report) · [Preprint](https://doi.org/10.5281/zenodo.23898313) | Course project report on Li-Fi (Light Fidelity) wireless communication, expanded into a critical review article covering architecture, modulation, standards (IEEE 802.11bb) and how data-rate claims should be read. Preprint on Zenodo (not peer reviewed). | Technical writing · Optical wireless |
 | [**python-fundamentals**](https://github.com/ErfanKhadiv/python-fundamentals) | CRUD apps, OOP design and NumPy data analysis exercises. | Python · NumPy |
 
 ---
